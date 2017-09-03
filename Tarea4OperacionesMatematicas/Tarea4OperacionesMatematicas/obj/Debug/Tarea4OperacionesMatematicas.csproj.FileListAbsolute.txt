@@ -1,0 +1,6 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea4OperacionesMatematicas\Tarea4OperacionesMatematicas\bin\Debug\Tarea4OperacionesMatematicas.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea4OperacionesMatematicas\Tarea4OperacionesMatematicas\bin\Debug\Tarea4OperacionesMatematicas.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea4OperacionesMatematicas\Tarea4OperacionesMatematicas\bin\Debug\Tarea4OperacionesMatematicas.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea4OperacionesMatematicas\Tarea4OperacionesMatematicas\obj\Debug\Tarea4OperacionesMatematicas.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea4OperacionesMatematicas\Tarea4OperacionesMatematicas\obj\Debug\Tarea4OperacionesMatematicas.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea4OperacionesMatematicas\Tarea4OperacionesMatematicas\obj\Debug\Tarea4OperacionesMatematicas.pdb
