@@ -1,0 +1,5 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea1Suma3numeros\Tarea1Suma3numeros\bin\Debug\Tarea1Suma3numeros.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea1Suma3numeros\Tarea1Suma3numeros\bin\Debug\Tarea1Suma3numeros.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea1Suma3numeros\Tarea1Suma3numeros\bin\Debug\Tarea1Suma3numeros.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea1Suma3numeros\Tarea1Suma3numeros\obj\Debug\Tarea1Suma3numeros.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea1Suma3numeros\Tarea1Suma3numeros\obj\Debug\Tarea1Suma3numeros.pdb

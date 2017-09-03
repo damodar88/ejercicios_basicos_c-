@@ -1,0 +1,5 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio7Switch\Ejercicio7Switch\bin\Debug\Ejercicio7Switch.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio7Switch\Ejercicio7Switch\bin\Debug\Ejercicio7Switch.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio7Switch\Ejercicio7Switch\bin\Debug\Ejercicio7Switch.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio7Switch\Ejercicio7Switch\obj\Debug\Ejercicio7Switch.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio7Switch\Ejercicio7Switch\obj\Debug\Ejercicio7Switch.pdb

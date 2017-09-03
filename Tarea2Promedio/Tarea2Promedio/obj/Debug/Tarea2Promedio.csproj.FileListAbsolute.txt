@@ -1,0 +1,5 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea2Promedio\Tarea2Promedio\bin\Debug\Tarea2Promedio.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea2Promedio\Tarea2Promedio\bin\Debug\Tarea2Promedio.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea2Promedio\Tarea2Promedio\bin\Debug\Tarea2Promedio.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea2Promedio\Tarea2Promedio\obj\Debug\Tarea2Promedio.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Tarea2Promedio\Tarea2Promedio\obj\Debug\Tarea2Promedio.pdb

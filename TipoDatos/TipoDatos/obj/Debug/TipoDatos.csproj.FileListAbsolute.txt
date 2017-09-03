@@ -1,0 +1,5 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\TipoDatos\TipoDatos\bin\Debug\TipoDatos.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\TipoDatos\TipoDatos\bin\Debug\TipoDatos.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\TipoDatos\TipoDatos\bin\Debug\TipoDatos.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\TipoDatos\TipoDatos\obj\Debug\TipoDatos.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\TipoDatos\TipoDatos\obj\Debug\TipoDatos.pdb

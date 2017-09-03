@@ -1,0 +1,5 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio6ParInpar\Ejercicio6ParInpar\bin\Debug\Ejercicio6ParInpar.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio6ParInpar\Ejercicio6ParInpar\bin\Debug\Ejercicio6ParInpar.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio6ParInpar\Ejercicio6ParInpar\bin\Debug\Ejercicio6ParInpar.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio6ParInpar\Ejercicio6ParInpar\obj\Debug\Ejercicio6ParInpar.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio6ParInpar\Ejercicio6ParInpar\obj\Debug\Ejercicio6ParInpar.pdb

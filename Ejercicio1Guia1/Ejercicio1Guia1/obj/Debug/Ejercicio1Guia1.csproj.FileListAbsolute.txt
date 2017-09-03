@@ -1,0 +1,6 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio1Guia1\Ejercicio1Guia1\bin\Debug\Ejercicio1Guia1.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio1Guia1\Ejercicio1Guia1\bin\Debug\Ejercicio1Guia1.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio1Guia1\Ejercicio1Guia1\bin\Debug\Ejercicio1Guia1.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio1Guia1\Ejercicio1Guia1\obj\Debug\Ejercicio1Guia1.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio1Guia1\Ejercicio1Guia1\obj\Debug\Ejercicio1Guia1.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio1Guia1\Ejercicio1Guia1\obj\Debug\Ejercicio1Guia1.pdb

@@ -1,0 +1,5 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercico4Operadores\Ejercico4Operadores\bin\Debug\Ejercico4Operadores.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercico4Operadores\Ejercico4Operadores\bin\Debug\Ejercico4Operadores.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercico4Operadores\Ejercico4Operadores\bin\Debug\Ejercico4Operadores.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercico4Operadores\Ejercico4Operadores\obj\Debug\Ejercico4Operadores.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercico4Operadores\Ejercico4Operadores\obj\Debug\Ejercico4Operadores.pdb

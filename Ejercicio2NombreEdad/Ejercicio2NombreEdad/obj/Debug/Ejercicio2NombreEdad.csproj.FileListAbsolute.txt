@@ -1,0 +1,5 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio2NombreEdad\Ejercicio2NombreEdad\bin\Debug\Ejercicio2NombreEdad.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio2NombreEdad\Ejercicio2NombreEdad\bin\Debug\Ejercicio2NombreEdad.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio2NombreEdad\Ejercicio2NombreEdad\bin\Debug\Ejercicio2NombreEdad.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio2NombreEdad\Ejercicio2NombreEdad\obj\Debug\Ejercicio2NombreEdad.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercicio2NombreEdad\Ejercicio2NombreEdad\obj\Debug\Ejercicio2NombreEdad.pdb

@@ -1,0 +1,6 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercico3IngresoDatos\Ejercico3IngresoDatos\bin\Debug\Ejercico3IngresoDatos.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercico3IngresoDatos\Ejercico3IngresoDatos\bin\Debug\Ejercico3IngresoDatos.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercico3IngresoDatos\Ejercico3IngresoDatos\bin\Debug\Ejercico3IngresoDatos.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercico3IngresoDatos\Ejercico3IngresoDatos\obj\Debug\Ejercico3IngresoDatos.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercico3IngresoDatos\Ejercico3IngresoDatos\obj\Debug\Ejercico3IngresoDatos.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ejercico3IngresoDatos\Ejercico3IngresoDatos\obj\Debug\Ejercico3IngresoDatos.pdb

@@ -1,0 +1,6 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\EjercicioMenuSwitch\EjercicioMenuSwitch\bin\Debug\EjercicioMenuSwitch.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\EjercicioMenuSwitch\EjercicioMenuSwitch\obj\Debug\EjercicioMenuSwitch.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\EjercicioMenuSwitch\EjercicioMenuSwitch\bin\Debug\EjercicioMenuSwitch.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\EjercicioMenuSwitch\EjercicioMenuSwitch\bin\Debug\EjercicioMenuSwitch.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\EjercicioMenuSwitch\EjercicioMenuSwitch\obj\Debug\EjercicioMenuSwitch.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\EjercicioMenuSwitch\EjercicioMenuSwitch\obj\Debug\EjercicioMenuSwitch.pdb

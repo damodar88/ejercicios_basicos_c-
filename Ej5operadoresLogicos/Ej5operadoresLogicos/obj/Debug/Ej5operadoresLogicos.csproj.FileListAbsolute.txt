@@ -1,0 +1,5 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ej5operadoresLogicos\Ej5operadoresLogicos\bin\Debug\Ej5operadoresLogicos.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ej5operadoresLogicos\Ej5operadoresLogicos\bin\Debug\Ej5operadoresLogicos.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ej5operadoresLogicos\Ej5operadoresLogicos\bin\Debug\Ej5operadoresLogicos.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ej5operadoresLogicos\Ej5operadoresLogicos\obj\Debug\Ej5operadoresLogicos.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Ej5operadoresLogicos\Ej5operadoresLogicos\obj\Debug\Ej5operadoresLogicos.pdb
