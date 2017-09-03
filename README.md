@@ -1,2 +1,1 @@
-# Net.C-EjerciciosBasicos
-# .Net-C-EjerciciosBasicos
+# ejercicios_basicos_c#-

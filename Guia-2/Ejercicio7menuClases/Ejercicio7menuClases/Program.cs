@@ -31,6 +31,23 @@ namespace Ejercicio7menuClases
             esValido = int.TryParse(Console.ReadLine(), out valor);
 
 
+            while (!esValido) {
+
+                Console.Clear();
+                Console.Write("Selecione una opcion 1,2,3,4--:");
+                esValido = int.TryParse(Console.ReadLine(), out valor);
+            
+            }
+
+            switch (valor)
+            { 
+            
+            
+            
+            
+            
+            }
+
 
 
 
