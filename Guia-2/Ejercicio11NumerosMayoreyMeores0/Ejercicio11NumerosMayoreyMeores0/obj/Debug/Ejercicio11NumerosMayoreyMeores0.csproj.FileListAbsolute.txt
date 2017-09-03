@@ -1,0 +1,6 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio11NumerosMayoreyMeores0\Ejercicio11NumerosMayoreyMeores0\bin\Debug\Ejercicio11NumerosMayoreyMeores0.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio11NumerosMayoreyMeores0\Ejercicio11NumerosMayoreyMeores0\bin\Debug\Ejercicio11NumerosMayoreyMeores0.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio11NumerosMayoreyMeores0\Ejercicio11NumerosMayoreyMeores0\bin\Debug\Ejercicio11NumerosMayoreyMeores0.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio11NumerosMayoreyMeores0\Ejercicio11NumerosMayoreyMeores0\obj\Debug\Ejercicio11NumerosMayoreyMeores0.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio11NumerosMayoreyMeores0\Ejercicio11NumerosMayoreyMeores0\obj\Debug\Ejercicio11NumerosMayoreyMeores0.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio11NumerosMayoreyMeores0\Ejercicio11NumerosMayoreyMeores0\obj\Debug\Ejercicio11NumerosMayoreyMeores0.pdb

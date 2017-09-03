@@ -4,19 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio10promedio5numeros
+namespace Ejercicio12DoWhile
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("----------Promedio de 5 numeros-------------");
-            Promedio sacarpromedio = new Promedio();
-
-            sacarpromedio.promediar();
-
-
-
         }
     }
 }

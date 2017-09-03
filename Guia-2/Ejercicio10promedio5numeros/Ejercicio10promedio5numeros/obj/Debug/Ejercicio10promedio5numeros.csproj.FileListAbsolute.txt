@@ -1,1 +1,5 @@
 C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio10promedio5numeros\Ejercicio10promedio5numeros\bin\Debug\Ejercicio10promedio5numeros.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio10promedio5numeros\Ejercicio10promedio5numeros\bin\Debug\Ejercicio10promedio5numeros.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio10promedio5numeros\Ejercicio10promedio5numeros\bin\Debug\Ejercicio10promedio5numeros.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio10promedio5numeros\Ejercicio10promedio5numeros\obj\Debug\Ejercicio10promedio5numeros.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio10promedio5numeros\Ejercicio10promedio5numeros\obj\Debug\Ejercicio10promedio5numeros.pdb
