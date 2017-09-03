@@ -25,12 +25,11 @@ namespace Tarea4OperacionesMatematicas
             string opcion = Console.ReadLine();
            
 
+
             if(opcion=="1")
             {
                suma=num1+num2;
                 Console.WriteLine("La suma es--:"+suma);
-
-
             }
             if(opcion=="2")
             {
