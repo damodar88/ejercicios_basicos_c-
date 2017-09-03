@@ -1,0 +1,6 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio13for\Ejercicio13for\bin\Debug\Ejercicio13for.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio13for\Ejercicio13for\bin\Debug\Ejercicio13for.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio13for\Ejercicio13for\bin\Debug\Ejercicio13for.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio13for\Ejercicio13for\obj\Debug\Ejercicio13for.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio13for\Ejercicio13for\obj\Debug\Ejercicio13for.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio13for\Ejercicio13for\obj\Debug\Ejercicio13for.pdb

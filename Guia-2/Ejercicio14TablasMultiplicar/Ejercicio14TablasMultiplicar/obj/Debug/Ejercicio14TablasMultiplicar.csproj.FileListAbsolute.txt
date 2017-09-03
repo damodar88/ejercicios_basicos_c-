@@ -1,0 +1,5 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio14TablasMultiplicar\Ejercicio14TablasMultiplicar\bin\Debug\Ejercicio14TablasMultiplicar.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio14TablasMultiplicar\Ejercicio14TablasMultiplicar\bin\Debug\Ejercicio14TablasMultiplicar.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio14TablasMultiplicar\Ejercicio14TablasMultiplicar\bin\Debug\Ejercicio14TablasMultiplicar.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio14TablasMultiplicar\Ejercicio14TablasMultiplicar\obj\Debug\Ejercicio14TablasMultiplicar.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio14TablasMultiplicar\Ejercicio14TablasMultiplicar\obj\Debug\Ejercicio14TablasMultiplicar.pdb
