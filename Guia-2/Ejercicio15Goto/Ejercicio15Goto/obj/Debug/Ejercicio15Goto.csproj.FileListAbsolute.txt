@@ -1,1 +1,6 @@
 C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio15Goto\Ejercicio15Goto\bin\Debug\Ejercicio15Goto.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio15Goto\Ejercicio15Goto\bin\Debug\Ejercicio15Goto.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio15Goto\Ejercicio15Goto\bin\Debug\Ejercicio15Goto.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio15Goto\Ejercicio15Goto\obj\Debug\Ejercicio15Goto.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio15Goto\Ejercicio15Goto\obj\Debug\Ejercicio15Goto.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio15Goto\Ejercicio15Goto\obj\Debug\Ejercicio15Goto.pdb

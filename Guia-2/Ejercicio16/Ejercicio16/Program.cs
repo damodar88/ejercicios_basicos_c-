@@ -4,19 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio15Goto
+namespace Ejercicio16
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingrese 2 numeros para determinar el corte");
-
-            Coerte cort = new Coerte();
-
-            cort.corteNumerico();
+            Console.WriteLine("Corte de una recta numerica");
 
 
+            Corte cort = new Corte();
+
+            cort.corteNumero();
 
 
 
