@@ -10,6 +10,16 @@ namespace Ejercicio12DoWhile
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Numeros entre 0 y 999");
+
+
+
+            Identifica inde = new Identifica();
+
+            inde.encuontrador();
+
+
+
         }
     }
 }
