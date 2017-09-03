@@ -1,0 +1,6 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.pdb
