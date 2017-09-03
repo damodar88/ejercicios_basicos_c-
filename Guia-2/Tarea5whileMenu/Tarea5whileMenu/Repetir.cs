@@ -16,7 +16,7 @@ namespace Tarea5whileMenu
             x = 1;
             while(x<=10){
 
-                Console.WriteLine("Numero--:{0}",x);
+                Console.Write("Numero--:{0}",x);
                 x = x + 1;
 
             }
