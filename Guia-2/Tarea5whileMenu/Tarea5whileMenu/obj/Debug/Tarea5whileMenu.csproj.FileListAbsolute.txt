@@ -1,0 +1,6 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Tarea5whileMenu\Tarea5whileMenu\bin\Debug\Tarea5whileMenu.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Tarea5whileMenu\Tarea5whileMenu\obj\Debug\Tarea5whileMenu.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Tarea5whileMenu\Tarea5whileMenu\bin\Debug\Tarea5whileMenu.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Tarea5whileMenu\Tarea5whileMenu\bin\Debug\Tarea5whileMenu.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Tarea5whileMenu\Tarea5whileMenu\obj\Debug\Tarea5whileMenu.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Tarea5whileMenu\Tarea5whileMenu\obj\Debug\Tarea5whileMenu.pdb

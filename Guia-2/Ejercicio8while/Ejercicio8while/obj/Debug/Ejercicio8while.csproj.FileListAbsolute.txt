@@ -1,0 +1,5 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio8while\Ejercicio8while\bin\Debug\Ejercicio8while.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio8while\Ejercicio8while\bin\Debug\Ejercicio8while.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio8while\Ejercicio8while\bin\Debug\Ejercicio8while.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio8while\Ejercicio8while\obj\Debug\Ejercicio8while.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio8while\Ejercicio8while\obj\Debug\Ejercicio8while.pdb

@@ -11,10 +11,10 @@ namespace Ejercicio7menuClases
         static void Main(string[] args)
         {
 
-            Menu0();
+            Menu();
         }
 
-         static void Menu0(){
+         static void Menu(){
          
             Menu menu0 = new Menu();
             Menu1 menu1 = new Menu1();
@@ -42,10 +42,25 @@ namespace Ejercicio7menuClases
             switch (valor)
             { 
             
-            
-            
-            
-            
+                case 1:
+                    menu0.Mostrar();
+                    Menu();
+                    break;
+
+                case 2:
+                    menu1.Mostrar1();
+                    Menu();
+                    break;
+                case 3:
+                    menu2.Mostrar2();
+                    Menu();
+                    break;
+                default:
+                    Console.WriteLine("Ingrese una opcion--:");
+                    break;
+
+
+
             }
 
 

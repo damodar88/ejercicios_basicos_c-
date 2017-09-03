@@ -1,1 +1,6 @@
 C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio7menuClases\Ejercicio7menuClases\bin\Debug\Ejercicio7menuClases.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio7menuClases\Ejercicio7menuClases\bin\Debug\Ejercicio7menuClases.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio7menuClases\Ejercicio7menuClases\bin\Debug\Ejercicio7menuClases.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio7menuClases\Ejercicio7menuClases\obj\Debug\Ejercicio7menuClases.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio7menuClases\Ejercicio7menuClases\obj\Debug\Ejercicio7menuClases.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\Ejercicio7menuClases\Ejercicio7menuClases\obj\Debug\Ejercicio7menuClases.pdb

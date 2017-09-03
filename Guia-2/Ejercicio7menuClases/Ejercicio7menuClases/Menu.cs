@@ -8,5 +8,18 @@ namespace Ejercicio7menuClases
 {
     class Menu
     {
+
+        public void Mostrar() {
+
+            Console.Write("Opcion 1 del menu principal");
+            Console.Read();
+        
+        }
+
+
+
+
+
+
     }
 }
