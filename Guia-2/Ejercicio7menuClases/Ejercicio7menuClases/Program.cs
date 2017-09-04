@@ -43,6 +43,7 @@ namespace Ejercicio7menuClases
             Console.WriteLine("10. Ejercicio 14");
             Console.WriteLine("11. Ejercicio 15");
             Console.WriteLine("12. Ejercicio 16");
+            Console.WriteLine("13. tarea 6");
              Console.WriteLine("Selecione una opcion[1,2,3,4,5,6,7,8,9,10,11]--:");
             esValido = int.TryParse(Console.ReadLine(), out valor);
 
