@@ -17,6 +17,7 @@ namespace menuNavegable
   
             static void MenuT(){
                 Tarea1 tarea1 = new Tarea1();
+                Class1 clas = new Class1();
 
                 Console.WriteLine("1-- Tarea 1");
                 Console.WriteLine("2-- Ejercicios");
@@ -30,29 +31,30 @@ namespace menuNavegable
                     bool esValido = false;
                     Console.WriteLine("1--Tarea1");
                     Console.WriteLine("2--Tarea2");
-                    Console.WriteLine("0--Retroseder");
+                    Console.WriteLine("3--Retroseder");
                     Console.WriteLine("elija opcion--:");
                     Console.WriteLine("");
                     esValido = int.TryParse(Console.ReadLine(), out valor);
 
-            //        while (!esValido)
-          //          {
-                      //  Console.Clear();
-                      //  Console.Write("Seleccione una opcion 1,2,0");
-             //    esValido = int.TryParse(Console.ReadLine(), out valor);
-                  //  }
+    
+                       Console.Clear();
+      
 
                     switch (valor)
                     {
       
                         case 1:
                             tarea1.Mostrar();
-                           // MenuT();
+                            Console.Clear();
                             break;
                         case 2:
                             tarea1.Mostrar();
-                           //MenuT();
+                            Console.Clear();
                             break;
+                        case 3:
+                            MenuT();
+                            break;
+                            
                         default:
                             Console.WriteLine("Ingrese una opcion-:");
                             break;
@@ -62,7 +64,45 @@ namespace menuNavegable
                     }
                    
                 }
-                    
+                while (opcionMP == "2")
+                {
+                    int valorSwitch;
+                    bool opMenu = false;
+                    Console.WriteLine("1--Ejercicio  1");
+                    Console.WriteLine("2--Ejercicio  2");
+                    Console.WriteLine("3--Retroseder");
+                    Console.WriteLine("elija opcion--:");
+                    Console.WriteLine("");
+                    opMenu = int.TryParse(Console.ReadLine(), out valorSwitch);
+                    Console.Clear();
+
+
+                    switch (valorSwitch)
+                    {
+
+                        case 1:
+                            clas.MostrarEJ();
+                            Console.Clear();
+                            break;
+                        case 2:
+                            clas.MostrarEJ();
+                            Console.Clear();
+                            break;
+                        case 3:
+                            MenuT();
+                            break;
+
+                        default:
+                            Console.WriteLine("Ingrese una opcion-:");
+                            break;
+
+
+
+                    }
+
+
+
+                }   
                
                 
                 
