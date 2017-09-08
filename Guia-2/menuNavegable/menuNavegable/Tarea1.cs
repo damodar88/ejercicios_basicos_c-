@@ -9,7 +9,7 @@ namespace menuNavegable
     class Tarea1
     {
         public void Mostrar() {
-            Console.WriteLine("Tarea 1 del menu");
+            Console.WriteLine("Tarea 1 del menu de tareas");
             Console.Read();
         
         }

@@ -10,7 +10,7 @@ namespace menuNavegable
     {
         public void MostrarEJ()
         {
-            Console.WriteLine("ejercicio 1 del menuEJ");
+            Console.WriteLine("ejercicio 1 del menu de ejercicios");
             Console.Read();
 
         }
