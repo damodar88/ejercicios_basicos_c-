@@ -22,6 +22,11 @@ namespace Ejercicio7menuClases
 
                 Console.WriteLine("Ingreso Correcto");
             }
+            else {
+
+                Console.WriteLine("Contraseña Incorrecta");
+            
+            }
 
 
 

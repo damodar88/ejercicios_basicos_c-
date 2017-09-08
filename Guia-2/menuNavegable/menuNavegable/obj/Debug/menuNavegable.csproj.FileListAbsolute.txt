@@ -1,0 +1,6 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\menuNavegable\menuNavegable\bin\Debug\menuNavegable.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\menuNavegable\menuNavegable\bin\Debug\menuNavegable.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\menuNavegable\menuNavegable\bin\Debug\menuNavegable.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\menuNavegable\menuNavegable\obj\Debug\menuNavegable.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\menuNavegable\menuNavegable\obj\Debug\menuNavegable.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-2\menuNavegable\menuNavegable\obj\Debug\menuNavegable.pdb

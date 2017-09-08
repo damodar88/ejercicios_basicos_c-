@@ -19,6 +19,7 @@ namespace Ejercicio7menuClases
             Menu         menu0  = new Menu();
             Menu1        menu1  = new Menu1();
             Menu2        menu2  = new Menu2();
+            Tarea6 t6 = new Tarea6();
             Ejercicio8   ej     = new Ejercicio8();
             Ejercicio9   ej9    = new Ejercicio9();
             Ejercicio10  ej10   = new Ejercicio10();
@@ -109,6 +110,11 @@ namespace Ejercicio7menuClases
                     ej16.corteNumero();
                     Menu();
                     break;
+                case 13:
+                    t6.contrasena();
+                    Menu();
+                    break;
+
 
                 default:
                     Console.WriteLine("Ingrese una opcion--:");
