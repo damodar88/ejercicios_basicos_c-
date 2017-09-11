@@ -1,0 +1,6 @@
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\vanessa\Dropbox\santo-tomas\programacion\C#\programas\Guia-3\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
