@@ -97,9 +97,13 @@ namespace menuNavegable
                         Console.WriteLine("7--Ejercicio 19");
                         Console.WriteLine("8--Ejercicio 20");
                         Console.WriteLine("9--Ejercicio 21");
-                        Console.WriteLine("");
-                        Console.WriteLine("");
-                        Console.WriteLine("");
+                        Console.WriteLine("10-Ejercicio 22");
+                        Console.WriteLine("11-Ejercicio 23");
+                        Console.WriteLine("12-Ejercicio 24");
+                        Console.WriteLine("13-Ejercicio 25");
+                        Console.WriteLine("14-Ejercicio 26");
+                        Console.WriteLine("15-Ejercicio 27");
+                        Console.WriteLine("16-Ejercicio 28");
                         Console.WriteLine("elija opcion--:");
                         opMenu = int.TryParse(Console.ReadLine(), out valorSwitch);
                         Console.Clear();
@@ -110,6 +114,10 @@ namespace menuNavegable
                         Ejercicio19 ej19 = new Ejercicio19();
                         Ejercicio20 ej20 = new Ejercicio20();
                         Ejercicio20guia2 ej21 = new Ejercicio20guia2();
+                        Ejercicio22 ej22 = new Ejercicio22();
+                        Ejercicio23 ej23 = new Ejercicio23();
+                        Ejercicio24 ej24 = new Ejercicio24();
+                        Ejercicio25 ej25 = new Ejercicio25();
                         switch (valorSwitch)
                         {
 
@@ -148,6 +156,25 @@ namespace menuNavegable
                                 ej21.ejercicio21();
                                 Console.Clear();
                                 break;
+                            case 10:
+                                ej22.ejercicio22();
+                                Console.Clear();
+                                break;
+                            case 11:
+                                ej23.mostrar();
+                                Console.Clear();
+                                break;
+                            case 12:
+                                ej24.Mostrar();
+                                Console.Clear();
+                                break;
+                            case 13:
+                                ej25.Mostrar();
+                                Console.Clear();
+                                break;
+
+
+
                             default:
                                 Console.WriteLine("Ingrese una opcion-:");
                                 break;

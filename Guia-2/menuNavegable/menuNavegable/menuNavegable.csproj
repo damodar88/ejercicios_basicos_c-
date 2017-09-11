@@ -47,6 +47,10 @@
     <Compile Include="Ejercicio19.cs" />
     <Compile Include="Ejercicio20.cs" />
     <Compile Include="Ejercicio20guia2.cs" />
+    <Compile Include="Ejercicio22.cs" />
+    <Compile Include="Ejercicio23.cs" />
+    <Compile Include="Ejercicio24.cs" />
+    <Compile Include="Ejercicio25.cs" />
     <Compile Include="Ejercicio8While.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
