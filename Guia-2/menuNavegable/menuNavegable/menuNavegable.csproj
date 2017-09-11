@@ -42,10 +42,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ejercicio17.cs" />
+    <Compile Include="Ejercicio18.cs" />
+    <Compile Include="Ejercicio19.cs" />
+    <Compile Include="Ejercicio20.cs" />
+    <Compile Include="Ejercicio20guia2.cs" />
     <Compile Include="Ejercicio8While.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tarea1.cs" />
+    <Compile Include="Tarea6.cs" />
+    <Compile Include="Tarea7.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
