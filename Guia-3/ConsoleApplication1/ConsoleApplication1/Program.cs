@@ -15,10 +15,11 @@ namespace ConsoleApplication1
 
   
             static void MenuT(){
-                
-                Console.WriteLine("1-- Tarea 1");
+                Console.WriteLine("################################");
+                Console.WriteLine("1-- Tarea ");
                 Console.WriteLine("2-- Prueba");
                 Console.WriteLine("3-- Salir");
+                Console.WriteLine("################################");
                 string opcionMP;
                 opcionMP= Console.ReadLine();
 
@@ -33,23 +34,39 @@ namespace ConsoleApplication1
                     {// MENU DE TAREAS
                         int valor;
                         bool esValido = false;
+                        Console.WriteLine("################################");
                         Console.WriteLine("1--Tarea1");
                         Console.WriteLine("2--Tarea2");
-                        Console.WriteLine("3--Retroseder");
+                        Console.WriteLine("3--Tarea3");
+                        Console.WriteLine("4--Retroseder");
                         Console.WriteLine("elija opcion--:");
-                        
+                        Console.WriteLine("################################");
+
+
+
+
                         esValido = int.TryParse(Console.ReadLine(), out valor);
 
                         Console.Clear();
                         Tarea1 t1 = new Tarea1();
-
+                        Tarea2 t2 = new Tarea2();
+                        Tarea3 t3 = new Tarea3();
                         switch (valor)
                         {
                             case 1:
                                 t1.mostrar();
                                 Console.Clear();
                                 break;
+                            case 2:
+                                t2.tarea2();
+                                Console.Clear();
+                                break;
                             case 3:
+                                t3.tarea3();
+                                Console.Clear();
+                                break; 
+                            
+                            case 4:
                                 MenuT();
                                // Console.Clear();
                                 break;
@@ -66,19 +83,21 @@ namespace ConsoleApplication1
 
                         int valor;
                         bool esValido = false;
-                        Console.WriteLine("1--Prueba ejercicio1");
-                        Console.WriteLine("2--Prueba segundo eje");
+                        Console.WriteLine("################################");
+                        Console.WriteLine("1--Prueba Ejercicio 1");
                         Console.WriteLine("3--Retroseder");
                         Console.WriteLine("elija opcion--:");
-
+                        Console.WriteLine("################################");
                         esValido = int.TryParse(Console.ReadLine(), out valor);
 
-                        Console.Clear();
-                        Tarea1 t1 = new Tarea1();
+                        Prueba p1 = new Prueba();
 
                         switch (valor)
                         {
-                           
+                            case 1:
+                                p1.mostrar();
+                                Console.Clear();
+                                break;
                             case 3:
                                 MenuT();
                                 // Console.Clear();
