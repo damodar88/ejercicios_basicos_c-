@@ -118,6 +118,10 @@ namespace menuNavegable
                         Ejercicio23 ej23 = new Ejercicio23();
                         Ejercicio24 ej24 = new Ejercicio24();
                         Ejercicio25 ej25 = new Ejercicio25();
+                        Ejercicio26 ej26 = new Ejercicio26();
+                        Ejercicio27 ej27 = new Ejercicio27();
+                        Ejercicio28 ej28 = new Ejercicio28();
+
                         switch (valorSwitch)
                         {
 
@@ -172,8 +176,18 @@ namespace menuNavegable
                                 ej25.Mostrar();
                                 Console.Clear();
                                 break;
-
-
+                            case 14:
+                                ej26.Mostar();
+                                Console.Clear();
+                                break;
+                            case 15:
+                                ej27.Mostrar();
+                                Console.Clear();
+                                break;
+                            case 16:
+                                ej28.Mostrar();
+                                Console.Clear();
+                                break;
 
                             default:
                                 Console.WriteLine("Ingrese una opcion-:");
